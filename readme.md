@@ -1,7 +1,7 @@
 # Cybersecurity & Virtualisation
-1. [Network Sniffing](chapters/1.%20Network_sniffing.md)
-2. [Virtual Networks]()
-3. [Wireless Networks]()
+1. [Network Sniffing](chapters/1.%20Network%20Sniffing.md)
+2. [Virtual Networks](chapters/2.%20Virtual%20Networks.md)
+3. [Wireless Networks](chapters/3.%20Wireless%20Networks.md)
 4. [Virtual Clones]()
 5. [Static File Analysis]()
 6. [Upgrade your skills]()
