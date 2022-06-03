@@ -4,7 +4,7 @@
 3. [Wireless Networks](chapters/3.%20Wireless%20Networks.md)
 4. [Virtual Clones](chapters/4.%20Virtual%20Clones.md)
 5. [Static File Analysis](5.%20Static%20File%20Analysis.md)
-6. [Upgrade your skills]()
+6. [Upgrade your skills](chapters/6.%20Upgrade%20your%20skills.md)
 7. [Burp Suite]()
 8. [Injection Attacks]()
 9. [OWASP]()
